@@ -1,0 +1,1 @@
+Manager,22,charudatta,200000.0,hr
